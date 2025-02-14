@@ -1,1 +1,1 @@
-# Predective_Maintainance_Project
+# Predictive_Maintenance_Project
